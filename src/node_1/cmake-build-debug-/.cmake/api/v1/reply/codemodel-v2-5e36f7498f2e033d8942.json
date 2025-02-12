@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b07dbe88b9174a2ea78c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "node_1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "node_1_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-node_1_1-Debug-a029aaec00d63b6adc84.json",
+					"name" : "node_1_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "node_1_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-node_1_2-Debug-b9d89dd57cf86243e854.json",
+					"name" : "node_1_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "node_1_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-node_1_3-Debug-c4270cee2af46282b255.json",
+					"name" : "node_1_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "node_1_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-node_1_4-Debug-fa14f4bca4c9ab13dd0c.json",
+					"name" : "node_1_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "node_1_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-node_1_5-Debug-a009c1d81572190b7eb1.json",
+					"name" : "node_1_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "node_1_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-node_1_6-Debug-f91d264fe4f7f73f6e3c.json",
+					"name" : "node_1_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "node_1_7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-node_1_7-Debug-f231a4ce2c6c03829d42.json",
+					"name" : "node_1_7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "node_1_8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-node_1_8-Debug-0dfc451d6ad12609aed9.json",
+					"name" : "node_1_8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "node_1_program_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-node_1_program_1-Debug-464399c583cc0b3c7735.json",
+					"name" : "node_1_program_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "node_1_test_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-node_1_test_1-Debug-1cc22937763fd650216b.json",
+					"name" : "node_1_test_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "node_1_try::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-node_1_try-Debug-2853947f45d85eeb8842.json",
+					"name" : "node_1_try",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "node_1_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-node_1_uninstall-Debug-0df72e38043a444358d8.json",
+					"name" : "node_1_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Debug-bdefaccb7d095efb6745.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/laohantuiche/program/opencv_first_try/src/node_1/cmake-build-debug-",
+		"source" : "/home/laohantuiche/program/opencv_first_try/src/node_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
